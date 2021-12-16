@@ -1,0 +1,9 @@
+*.vcxproj
+CMakeCache.txt
+*.cmake
+*.vcxproj.filters
+.vscode/
+build/
+CmakeFiles/
+coal.sln
+bin/
